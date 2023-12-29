@@ -16,9 +16,9 @@ class ToDo {
       ToDo(id: '04', todoText: 'Morning Exercise', isDone: true),
       ToDo(id: '05', todoText: 'Morning Exercise'),
       ToDo(id: '06', todoText: 'Morning Exercise'),
-      ToDo(id: '04', todoText: 'Morning Exercise', isDone: true),
-      ToDo(id: '04', todoText: 'Morning Exercise', isDone: true),
-      ToDo(id: '04', todoText: 'Morning Exercise', isDone: true),
+      ToDo(id: '07', todoText: 'Morning Exercise', isDone: true),
+      ToDo(id: '08', todoText: 'Morning Exercise', isDone: true),
+      ToDo(id: '09', todoText: 'Morning Exercise', isDone: true),
     ];
   }
 }
